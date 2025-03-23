@@ -1,3 +1,6 @@
 [submodule "guessing-number-game"]
 	path = guessing-number-game
 	url = https://github.com/TALHA-AHMED12/guessing-number-game.git
+[submodule "library_management_system"]
+	path = library_management_system
+	url = https://github.com/TALHA-AHMED12/library_management_system.git
