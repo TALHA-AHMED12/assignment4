@@ -1,0 +1,3 @@
+[submodule "guessing-number-game"]
+	path = guessing-number-game
+	url = https://github.com/TALHA-AHMED12/guessing-number-game.git
